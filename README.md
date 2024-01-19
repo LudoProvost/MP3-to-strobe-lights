@@ -1,7 +1,5 @@
 # MP3 to strobe lights algorithm
-```diff
-- **WARNING: THIS ALGORITHM PRODUCES RAPIDLY FLASHING LIGHTS. USE AT OWN RISK**
-```
+### **WARNING: THIS ALGORITHM PRODUCES RAPIDLY FLASHING LIGHTS. USE AT OWN RISK**
 Algorithm to generate a strobe light effect by alternating white and black fullscreen using PySimpleGUI. This is a **math-heavy* project.
 
 ## How to use
